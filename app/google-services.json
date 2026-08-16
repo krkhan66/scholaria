@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501702699042",
+    "firebase_url": "https://scholaria-5c0a4-default-rtdb.firebaseio.com",
+    "project_id": "scholaria-5c0a4",
+    "storage_bucket": "scholaria-5c0a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501702699042:android:9fa6acd7398a6051f0427b",
+        "android_client_info": {
+          "package_name": "com.scholaria.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CLISDiyTyR7owQvJhv7Syl2T-4eAs1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

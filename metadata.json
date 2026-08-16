@@ -1,0 +1,6 @@
+{
+  "name": "Scholaria",
+  "description": "Student and School Management mobile application with Firebase integration (Realtime Database and Authentication), Gemini AI study tutor, notices, homework, fees, profile, and forgot password flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
